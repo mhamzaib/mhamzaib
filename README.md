@@ -24,7 +24,8 @@ all. If you want to describe me, I'm the class clown that loves to keep the mood
             IBM Certified Data Science Professional
             IBM DevOps, Cloud and Agile Foundations
             BCG Digital Transformation Specialization
-      Paper: Digital Transformation Among Family Businesses in Pakistan (Available at SSRN: https://ssrn.com/abstract=3916879 or http://dx.doi.org/10.2139/ssrn.3916879)
+      📖 Paper: Digital Transformation Among Family Businesses in Pakistan
+            (Available at SSRN: https://ssrn.com/abstract=3916879 or http://dx.doi.org/10.2139/ssrn.3916879)
 
 🔎 Current Research & Projects
       Agentic Discovery Engines:Building fancy AI agents for complex data retrieval (Stealth Mode).
