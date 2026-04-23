@@ -16,7 +16,7 @@ all. If you want to describe me, I'm the class clown that loves to keep the mood
       🩹 Systems & Support Engineering
             Expertise: Enterprise-level Root Cause Analysis (RCA), Incident Management, System Triage.
             Observability: Grafana, Humio, Prometheus, ELK Stack.
-            Methodology: Reducing technical debt and developer escalations through systemic reliability engineering and observability.
+            Methodology: Reducing technical debt and escalations through systemic reliability engineering and observability.
       ⚒️ Infrastructure & DevOps
             Virtualization: KVM/QEMU, Hardware Abstraction (Participated in the KVM Forum, Milan 2025).
             Cloud(-ish): AWS, Docker, Terraform, CI/CD, GCP.
