@@ -2,7 +2,9 @@
 👋 Hello, I'm Muhammad Hamza
 
 🧪 Systems Architect | Senior Engineer | Data Analyst
-I am a senior technical professional with over 7 years of experience bridging the gap between software engineering and data-driven intelligence. From full stack development, to support engineering, to data analytics, I've seen it all. If you want to describe me, I'm the class clown that loves to keep the mood light, but GETS sh*t done.
+I am a senior technical professional with over 7 years of experience bridging the gap between software engineering and data-driven intelligence.
+From full stack development, to support engineering, to data analytics, I've seen it all.
+If you want to describe me, I'm the class clown that loves to keep the mood light, but GETS sh*t done.
 
 🗺️ Core Tech Stack
       📈 Data & Analytics
