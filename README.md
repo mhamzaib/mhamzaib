@@ -6,8 +6,11 @@ I am a senior technical professional with over 7 years of experience bridging th
 and data-driven intelligence. From full stack development, to support engineering, to data analytics, I've seen it
 all. If you want to describe me, I'm the class clown that loves to keep the mood light, but GETS sh*t done.
 
+```
+
 [![Top Langs](https://vercel.app)](https://github.com/mhamzaib/github-readme-stats)
 
+```
 🗺️ Core Tech Stack
       📈 Data & Analytics
             Expertise: Data Modeling, SQL Optimization, ETL Pipelines, Root Cause Analysis (RCA).
